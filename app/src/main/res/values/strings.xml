@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BasicStudentList</string>
+    <string name="name">Nome</string>
+    <string name="phone">Telefone</string>
+    <string name="email">E-mail</string>
+    <string name="save">Salvar</string>
+    <string name="remover">Remover</string>
+    <string name="salvar">Salvar</string>
+</resources>
